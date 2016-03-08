@@ -29,5 +29,16 @@
     "basic-graph.html",
     "importance.html",
     "traversal.md",
-    "complex-graphs.html"
+    "complex-graphs.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/mind-blown.gif"
+        }
+    },
+    "why-use-a-graph.md",
+    "social-graphs.md",
+    "recommendation-engines.md",
+    "fraud-detection.md",
+    "large-scale-relational-problems.md"
 ]
