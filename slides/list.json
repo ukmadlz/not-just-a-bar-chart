@@ -40,5 +40,10 @@
     "social-graphs.md",
     "recommendation-engines.md",
     "fraud-detection.md",
-    "large-scale-relational-problems.md"
+    "large-scale-relational-problems.md",
+    "enter-ibm-graph.md",
+    "available-via-ibm-bluemix.md",
+    "built-on-tinkerpop3.md",
+    "open-source.md",
+    "whats-the-stack.md"
 ]
