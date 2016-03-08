@@ -12,5 +12,33 @@
             "id": "author"
         }
     },
-    "when-you-say-graph.md"
+    "when-you-say-graph.md",
+    "table.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/line-graph.gif"
+        }
+    },
+    "different-interpretation.md",
+    "graph-network-theory.md",
+    "what-this-means.md",
+    "the-meta-data.md",
+    "visualisations.md",
+    "this-can-look-like.md",
+    "basic-graph.html",
+    "importance.html",
+    "traversal.md",
+    "complex-graphs.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/mind-blown.gif"
+        }
+    },
+    "why-use-a-graph.md",
+    "social-graphs.md",
+    "recommendation-engines.md",
+    "fraud-detection.md",
+    "large-scale-relational-problems.md"
 ]
